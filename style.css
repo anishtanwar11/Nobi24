@@ -522,7 +522,7 @@ body{
     border-radius: 5px;
 }
 .categories-wrap{
-    margin-left: 13px;
+    margin-left: 15px;
     margin-bottom: 10px;
     width: 300;
     border-radius: 8px;
@@ -537,7 +537,7 @@ body{
 }
 .categories-wrap img{
     height: 150px;
-    width: 303px;
+    width: 304px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
