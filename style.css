@@ -522,6 +522,7 @@ body{
     border-radius: 5px;
 }
 .categories-wrap{
+    margin-left: 5px;
     margin-bottom: 10px;
     width: 300;
     border-radius: 8px;
